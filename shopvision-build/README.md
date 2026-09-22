@@ -1,6 +1,9 @@
 # ShopVision AI — Full Stack Build
 
 This build connects the supplied React UI to a Spring Boot backend and implements the agreed ShopVision AI flow.
+## Live Demo
+
+🚀 **Live Application:** [ShopVision AI](https://main.dk3wtiovzn11k.amplifyapp.com/)
 
 ## Project structure
 
